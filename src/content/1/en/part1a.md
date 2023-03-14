@@ -82,7 +82,7 @@ By default, the file <i>public/index.html</i> doesn't contain any HTML markup th
 </html>
 ```
 
-You can try adding there some HTML to the file. However, when using React, all content that needs to be rendered is usually defined as React components.
+You can try adding some HTML to the file. However, when using React, all content that needs to be rendered is usually defined as React components.
 
 Let's take a closer look at the code defining the component:
 
